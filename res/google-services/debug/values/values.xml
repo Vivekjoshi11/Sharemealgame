@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">404003276169-otmpjni647jb2jd91l3ck1v7df6fovqs.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">404003276169</string>
+    <string name="google_api_key" translatable="false">AIzaSyD_PtUDy_1KJgWhLiXbzAsgYJ5H3ckOmVA</string>
+    <string name="google_app_id" translatable="false">1:404003276169:android:2b2750ebf1abe0b4788d58</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD_PtUDy_1KJgWhLiXbzAsgYJ5H3ckOmVA</string>
+    <string name="google_storage_bucket" translatable="false">sharemealapp-a43e9.appspot.com</string>
+    <string name="project_id" translatable="false">sharemealapp-a43e9</string>
+</resources>
